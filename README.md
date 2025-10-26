@@ -1,4 +1,3 @@
-```markdown
 # Monkeytype Clone 🧠⌨️
 
 A **full-stack Monkeytype clone** built by [@mohitscodiclab](https://github.com/mohitscodiclab) using **vanilla JavaScript** and supporting libraries.  
@@ -93,4 +92,3 @@ This project is open-source and available under the **MIT License**.
 ### ✨ Author
 
 Created with ❤️ by [**Mohit (@mohitscodiclab)**](https://github.com/mohitscodiclab)
-```
