@@ -16,6 +16,12 @@ Test your typing speed and accuracy with customizable time and word challenges �
 
 ---
 
+## 🌐 Demo
+
+**Try it here 👉 [bandarType](https://mohitscodiclab.github.io/bandarType/)**
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
@@ -92,3 +98,7 @@ This project is open-source and available under the **MIT License**.
 ### ✨ Author
 
 Created with ❤️ by [**Mohit (@mohitscodiclab)**](https://github.com/mohitscodiclab)
+
+***
+
+The section **Demo** contains your live link for easy access. Let me know if you need the README in a downloadable format, or want any other changes!
